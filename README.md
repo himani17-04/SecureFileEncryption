@@ -27,7 +27,6 @@ The Secure File Encryption System addresses this problem by encrypting files usi
 
 | **Technology** | **Purpose** |
 |:---|:---|
-
 | Python | Main programming language used to develop the application. |
 
 | Streamlit | Creates the interactive web interface for file encryption and decryption. |
