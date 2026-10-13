@@ -28,21 +28,13 @@ The Secure File Encryption System addresses this problem by encrypting files usi
 | **Technology** | **Purpose** |
 |:---|:---|
 | Python | Main programming language used to develop the application. |
-
 | Streamlit | Creates the interactive web interface for file encryption and decryption. |
-
 | Cryptography Library | Provides cryptographic functions for secure file processing. |
-
 | AES-256-GCM | Encrypts files and verifies data authenticity and integrity. |
-
 | Scrypt | Derives a 256-bit encryption key from the user's password. |
-
 | Git | Tracks changes and manages versions of the source code. |
-
 | GitHub | Hosts the source code and project documentation online. |
-
 | Visual Studio Code | Used to write, edit, and manage the project code. |
-
 
 ## 5. Python Libraries Used
 
